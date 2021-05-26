@@ -1,0 +1,78 @@
+.wrapper{
+	text-align: center;
+	margin-top: 2%;
+}
+
+.round-image{
+	margin-left: 10%;
+	float:left;
+
+}
+.form{
+	text-align: left;
+	margin-right: 5%;
+	float:right;
+	border color: solid black;
+	border-width: 2px;
+	background-color: #CCDEF0;
+    padding: 3%;
+    color: black;
+    font-size:30px;
+}
+.form-btn{
+	background-color: #EAECEE 
+    color:white;
+    padding:1%;
+    width:50%;
+    text-align:center;
+}
+.page2-container{
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.aboutus-content{
+	text-align: left;
+	background-color: #CCDEF0;
+	font-family: unset;
+	padding: 3%;
+	font-size: 20px;
+	width:40%;
+    float:left;
+}
+
+.page3-container{
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 5%;
+}
+
+.reason-box{
+	box-sizing: content-box;
+	width: 100%;
+	font-family: unset;
+	border: 1px solid;
+    box-shadow: 5px 10px #212F3D;
+    text-align: left;
+}
+
+.reason-box-content{
+	padding: 30px;
+	margin-left: 10%;
+}
+
+.page4-container{
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 5%;
+}
+
+.steps-box{
+	padding:3px;
+}
